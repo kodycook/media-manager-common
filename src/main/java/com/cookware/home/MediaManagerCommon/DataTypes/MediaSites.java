@@ -1,4 +1,4 @@
-package com.cookware.home.MediaManagerServer.DataTypes;
+package com.cookware.home.MediaManagerCommon.DataTypes;
 
 /**
  * Created by Kody on 12/05/2018.
