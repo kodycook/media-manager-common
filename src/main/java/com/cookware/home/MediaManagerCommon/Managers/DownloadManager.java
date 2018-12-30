@@ -1,10 +1,10 @@
-package com.cookware.home.MediaManagerCore.Managers;
+package com.cookware.home.MediaManagerCommon.Managers;
 
-import com.cookware.home.MediaManagerCore.DataTypes.Config;
-import com.cookware.home.MediaManagerCore.DataTypes.DownloadState;
-import com.cookware.home.MediaManagerCore.DataTypes.MediaInfo;
-import com.cookware.home.MediaManagerCore.DataTypes.MediaType;
-import com.cookware.common.Tools.FileNameTools;
+import com.cookware.home.MediaManagerCommon.DataTypes.Config;
+import com.cookware.home.MediaManagerCommon.DataTypes.DownloadState;
+import com.cookware.home.MediaManagerCommon.DataTypes.MediaInfo;
+import com.cookware.home.MediaManagerCommon.DataTypes.MediaType;
+import com.cookware.home.MediaManagerCommon.Tools.FileNameTools;
 import com.cookware.common.Tools.WebTools;
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;

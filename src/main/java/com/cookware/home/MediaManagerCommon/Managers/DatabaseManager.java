@@ -1,10 +1,10 @@
-package com.cookware.home.MediaManagerCore.Managers;
+package com.cookware.home.MediaManagerCommon.Managers;
 
-import com.cookware.home.MediaManagerCore.DataTypes.DownloadState;
-import com.cookware.home.MediaManagerCore.DataTypes.MediaInfo;
-import com.cookware.home.MediaManagerCore.DataTypes.MediaType;
+import com.cookware.home.MediaManagerCommon.DataTypes.DownloadState;
+import com.cookware.home.MediaManagerCommon.DataTypes.MediaInfo;
+import com.cookware.home.MediaManagerCommon.DataTypes.MediaType;
 import com.cookware.common.Tools.DirectoryTools;
-import com.cookware.common.Tools.FileNameTools;
+import com.cookware.home.MediaManagerCommon.Tools.FileNameTools;
 import org.apache.log4j.Logger;
 
 import java.math.BigInteger;

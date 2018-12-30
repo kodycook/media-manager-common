@@ -1,6 +1,6 @@
-package com.cookware.home.MediaManagerCore.Managers;
+package com.cookware.home.MediaManagerCommon.Managers;
 
-import com.cookware.home.MediaManagerCore.DataTypes.Config;
+import com.cookware.home.MediaManagerCommon.DataTypes.Config;
 
 import java.io.FileInputStream;
 import java.io.IOException;
